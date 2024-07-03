@@ -6,6 +6,7 @@ The Movie Recommendation System is an application designed to help users discove
 
 1. **Data Collection**:
    - The system uses datasets containing movie details and credits (cast and crew information) from TMDb.
+   - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 2. **Data Processing**:
    - Merge and clean the datasets.
