@@ -1,6 +1,8 @@
 # Movie Recommendation System
 
 The Movie Recommendation System is an application designed to help users discover movies similar to their favorites. By leveraging data from The Movie Database (TMDb) and advanced machine learning techniques, the system provides accurate and personalized movie recommendations.
+![1719994758244](https://github.com/user-attachments/assets/fff20101-cd08-4a1d-8a71-174c139a14f7)
+
 
 ## How the Recommender System Works
 
